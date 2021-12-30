@@ -21,3 +21,9 @@ console.log(inacosa);
 inacosa = true;
 inacosa = false;
 console.log(inacosa);
+
+ if (!inacosa) {
+   console.log("es verdadero");
+ } else {
+ console.log("se termino el programa");
+ }
